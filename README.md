@@ -3,5 +3,4 @@ Exercises and course projects for the courses "Introduction to data analysis and
 
 The members of the "Prometheus" group are Filippos Rogdakis, Emmanouil Smpokos and Orestis Zoumpoulakis.
 
-The course project for PH252 is "Fake News Classification using Machine Learning algorithms.". Addiotional informations for this work can be found in the corresponding pdf file.
-The course project for PH253 is "The Role of AI and Neural Networks in Fake News Creation and Detection.". Addiotional information for this work can be found in the corresponding pdf file.
+The course project for PH252 is "Fake News Classification using Machine Learning algorithms." and for PH253 is "The Role of AI and Neural Networks in Fake News Creation and Detection.". Addiotional information for these projects can be found in the corresponding pdf files.
